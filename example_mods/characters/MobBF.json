@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Idle"
+		},
+		{
+			"offsets": [
+				90,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Left"
+		},
+		{
+			"offsets": [
+				-32,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Down"
+		},
+		{
+			"offsets": [
+				0,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Up"
+		},
+		{
+			"offsets": [
+				-90,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-30
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-30
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 25,
+			"name": "BF Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-30
+			],
+			"anim": "singUPmiss",
+			"fps": 25,
+			"name": "BF Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-30
+			],
+			"anim": "singDOWNmiss",
+			"fps": 25,
+			"name": "BF Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Mobian",
+	"position": [
+		-40,
+		175
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		181,
+		235
+	],
+	"camera_position": [
+		10,
+		20
+	],
+	"sing_duration": 4.5,
+	"scale": 1
+}

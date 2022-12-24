@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ChristmasExe Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				116,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ChristmasExe Up"
+		},
+		{
+			"offsets": [
+				110,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ChristmasExe Left"
+		},
+		{
+			"offsets": [
+				139,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ChristmasExe Right"
+		},
+		{
+			"offsets": [
+				119,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ChristmasExe Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ChristmasExe",
+	"position": [
+		140,
+		150
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		115
+	],
+	"camera_position": [
+		30,
+		-5
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
