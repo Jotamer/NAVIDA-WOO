@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				110
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CHR_Merger Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				121,
+				110
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CHR_Merger Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				150,
+				115
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CHR_Merger Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				111
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CHR_Merger Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CHR_Merger Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				110
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				110
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				110
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				110
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CHR_Merger",
+	"position": [
+		50,
+		140
+	],
+	"healthicon": "patch",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		10,
+		100
+	],
+	"camera_position": [
+		-50,
+		25
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
