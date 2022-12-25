@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				77,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				111,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				100,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				131,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				110,
+				3
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Miss"
+		},
+		{
+			"offsets": [
+				110,
+				3
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Miss"
+		},
+		{
+			"offsets": [
+				110,
+				3
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Miss"
+		},
+		{
+			"offsets": [
+				110,
+				3
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/melty",
+	"position": [
+		140,
+		150
+	],
+	"healthicon": "exe",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		0,
+		115
+	],
+	"camera_position": [
+		30,
+		-5
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
