@@ -1,0 +1,459 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "P1",
+		"player1": "sonic",
+		"player2": "exe",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"zoom out",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"zoom out",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				14000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					],
+					[
+						"zoom out",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				14250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				14500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				14750,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				15250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				15500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"zoom out",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"zoom out",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"zoom out",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"zoom out",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				39500,
+				[
+					[
+						"zoom out",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"zoom out",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"zoom out",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					],
+					[
+						"zoom out",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				62250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				62750,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				63250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				63500,
+				[
+					[
+						"zoom out",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"zoom out",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"zoom out",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"zoom out",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					],
+					[
+						"zoom out",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				126250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				126500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				126750,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				127000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				127250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"zoom out",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				158000,
+				[
+					[
+						"zoom out",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					],
+					[
+						"zoom out",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				160250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				160500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				160750,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				161000,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				161250,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			],
+			[
+				161500,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 240,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "confronting-yourself"
+	}
+}
