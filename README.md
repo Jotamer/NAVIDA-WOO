@@ -7,7 +7,7 @@ Please refer to [the installation tutorial on the Psych Engine README.md](https:
 ## Current Credits:
 * JotaMR - Directing, Arts, Animations and Assistant Coding
 * RickyMania22 - Co-Directing and Charting
-* Pivelink - Composing and Assistant Coding
+* Pivelink - Arts, Animations, Composing and Assistant Coding
 * TheKylevi - Composing
 * EggPog - Composing
 * MorenoTheCappuccinoChugger - Coding
