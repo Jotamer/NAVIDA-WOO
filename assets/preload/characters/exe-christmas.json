@@ -62,7 +62,7 @@
 		140,
 		150
 	],
-	"healthicon": "exe",
+	"healthicon": "exedoll",
 	"flip_x": false,
 	"healthbar_colors": [
 		40,
@@ -70,8 +70,8 @@
 		115
 	],
 	"camera_position": [
-		30,
-		-5
+		0,
+		-55
 	],
 	"sing_duration": 4,
 	"scale": 1

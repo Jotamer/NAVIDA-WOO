@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				240,
 				110
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "CHR_Merger Left"
+			"fps": 24,
+			"name": "CHR_Merger Left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				114,
 				110
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "CHR_Merger Right"
+			"fps": 24,
+			"name": "CHR_Merger Right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				150,
 				111
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "CHR_Merger Down"
+			"fps": 24,
+			"name": "CHR_Merger Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				120,
 				111
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "CHR_Merger Idle"
+			"fps": 24,
+			"name": "CHR_Merger Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				126,
 				121
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "CHR_Merger Up"
+			"fps": 24,
+			"name": "CHR_Merger Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				119,
 				110
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "CHR_Merger Miss"
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				119,
 				110
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "CHR_Merger Miss"
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				119,
 				110
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "CHR_Merger Miss"
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				119,
 				110
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "CHR_Merger Miss"
+			"fps": 24,
+			"name": "CHR_Merger Miss",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -109,9 +109,9 @@
 	"healthicon": "patch",
 	"flip_x": false,
 	"healthbar_colors": [
-		50,
-		10,
-		100
+		95,
+		7,
+		189
 	],
 	"camera_position": [
 		0,

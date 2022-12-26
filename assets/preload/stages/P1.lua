@@ -20,7 +20,8 @@ function onCreate()
 	scaleObject('stageblack', 1.5, 1.5);
 	setLuaSpriteScrollFactor('stageblack', 1.0, 1.0);
 	addLuaSprite('stageblack', true);
-	
-	
-	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
+end
+
+function onUpdate(elapsed)
+	setProperty('gf.visible', false)
 end

@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				130,
 				-60
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				77,
 				-59
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "Up"
+			"fps": 24,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				111,
 				-66
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "down"
+			"fps": 24,
+			"name": "down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				100,
 				-60
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Left"
+			"fps": 24,
+			"name": "Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				131,
 				-60
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				110,
 				3
 			],
-			"indices": [],
-			"fps": 25,
 			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "Miss"
+			"fps": 25,
+			"name": "Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				110,
 				3
 			],
-			"indices": [],
-			"fps": 25,
 			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "Miss"
+			"fps": 25,
+			"name": "Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				110,
 				3
 			],
-			"indices": [],
-			"fps": 25,
 			"anim": "singUPmiss",
-			"loop": false,
-			"name": "Miss"
+			"fps": 25,
+			"name": "Miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				110,
 				3
 			],
-			"indices": [],
-			"fps": 25,
 			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "Miss"
+			"fps": 25,
+			"name": "Miss",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "TailsDollIdle"
+			"fps": 24,
+			"name": "TailsDollIdle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				77,
 				-16
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDollLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TailsDollLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				3,
 				-80
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDollDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TailsDollDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-40,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDollRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TailsDollRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				27,
 				37
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "TailsDollUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "TailsDollUp"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/TailsDollASS-ETS",
 	"position": [
-		-150,
+		0,
 		100
 	],
-	"healthicon": "dad",
+	"healthicon": "Tdoll",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		60,
-		110
+		131,
+		0
 	],
 	"camera_position": [
 		0,

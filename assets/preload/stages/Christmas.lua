@@ -20,6 +20,8 @@ function onCreate()
 	addLuaSprite("back_forest", false);
 	addLuaSprite("christmas tree", false);
 	addLuaSprite("CHRFloor", false);
-	
-	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
+end
+
+function onUpdate()
+	setProperty('gf.visible', false)
 end

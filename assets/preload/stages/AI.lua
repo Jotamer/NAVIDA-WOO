@@ -33,7 +33,8 @@ function onCreate()
 	addLuaSprite("tbg_backgrass", false);
 	addLuaSprite("tbg_trees", false);
 	addLuaSprite("tbg_front", false);
-	
-	
-	close(true); --For performance reasons, close this script once the stage is fully loaded, as this script won't be used anymore after loading the stage
+end
+
+function onUpdate(elapsed)
+	setProperty('gf.visible', false)
 end

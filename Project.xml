@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Sonic.EXE: Rings Of Despair" file="RODxmas" packageName="com.rodteamlol.ringsofdespair" package="com.rodteamlol.ringsofdespair" main="Main" version="0.2.8" company="The RoD Team" />
+	<app title="Sonic.EXE: Rings Of Despair" file="RODxmas" packageName="com.rodteamlol.ringsofdespair" package="com.rodteamlol.ringsofdespair" main="Main" version="0.6.3" company="The RoD Team" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />

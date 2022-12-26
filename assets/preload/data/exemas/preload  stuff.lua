@@ -1,0 +1,11 @@
+function onCreate()
+	precacheImage('blackscreen')
+	precacheImage('hitStatic')
+	precacheImage('characters/xmas-doll')
+	precacheImage('characters/exe-christmas')
+	precacheImage('characters/xmas-melty')
+	precacheImage('christmas tree')
+	precacheImage('CHRFloor')
+	precacheImage('redsky')
+	precacheImage('back_forest')
+end
